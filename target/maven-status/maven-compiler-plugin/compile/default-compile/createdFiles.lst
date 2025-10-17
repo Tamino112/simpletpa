@@ -1,0 +1,9 @@
+de\vexo5566\simpletpa\commands\TpHereCommand.class
+de\vexo5566\simpletpa\manager\TPAManager$TpaRequest.class
+de\vexo5566\simpletpa\commands\TpAcceptCommand.class
+de\vexo5566\simpletpa\SimpleTPA.class
+de\vexo5566\simpletpa\commands\TpCommand.class
+de\vexo5566\simpletpa\commands\TpDenyCommand.class
+de\vexo5566\simpletpa\manager\TPAManager.class
+de\vexo5566\simpletpa\commands\TpaCommand.class
+de\vexo5566\simpletpa\commands\TpToggleCommand.class

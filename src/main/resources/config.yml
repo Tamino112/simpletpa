@@ -1,0 +1,23 @@
+messages:
+  prefix: "&7[&bSimpleTPA&7] "
+  tpa_sent: "&aYou sent a teleport request to &e%target%."
+  tpa_received: "&e%sender% &ahas sent you a teleport request. Type &b/tpaccept &aor &c/tpadeny&a."
+  tpa_here_sent: "&aYou requested &e%target% &ato teleport to you."
+  tpa_here_received: "&e%sender% &ahas requested you to teleport to them. Type &b/tpaccept &aor &c/tpadeny&a."
+  tpa_accepted: "&aTeleport request accepted!"
+  tpa_denied: "&cTeleport request denied!"
+  tpa_disabled: "&cYou have TPA requests disabled."
+  tpa_toggled_on: "&aYou can now receive TPA requests."
+  tpa_toggled_off: "&cYou will no longer receive TPA requests."
+  no_request: "&cYou have no pending teleport requests."
+  no_permission: "&cYou do not have permission to do that."
+  player_not_found: "&cThat player is not online."
+  cannot_send_to_self: "&cYou cannot send a TPA request to yourself!"
+  teleporting: "&aTeleporting..."
+
+sound:
+  enabled: true
+  type: "ENTITY_EXPERIENCE_ORB_PICKUP"
+  volume: 1.0
+  pitch: 1.2
+

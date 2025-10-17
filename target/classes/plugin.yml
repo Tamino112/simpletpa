@@ -1,0 +1,22 @@
+name: simpletpa
+version: '1.1'
+main: de.vexo5566.simpletpa.SimpleTPA
+api-version: '1.21'
+author: Vexo5566
+commands:
+  tpa:
+    description: Send a teleport request to a player
+  tpahere:
+    description: Request a player to teleport to you
+  tpaccept:
+    description: Accept a teleport request
+  tpadeny:
+    description: c
+  tpatoggle:
+    description: Toggle TPA requests
+  tp:
+    description: Teleport to a player (admin)
+permissions:
+  simpletpa.tp:
+    description: Allows direct teleporting
+    default: op
